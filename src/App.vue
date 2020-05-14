@@ -8,7 +8,7 @@
       <img class="resim d-lg-none d-block" src="./assets/images/back-2.png" alt />
 
       <div class="perde"></div>
-      <img src="./assets/images/profil1.jpeg" alt class="profil" />
+      <img src="./assets/images/profil3.jpeg" alt class="profil" />
       <div class="aciklamalar">
         <div style="font-size:30px">Erdem ÜN</div>
         <div style="font-size:25px">Software Developer (Mechanical Engineer)</div>
@@ -102,40 +102,47 @@
       </vs-row>
       <hr />
       <vs-row>
-        <vs-col vs-type="flex" vs-justify="center" vs-align="center" vs-lg="2" vs-sm="2" vs-xs="2">
-          <img :style="window.width  < 900 ? 'width:80%' : 'width:60%'" src="./assets/logo.png" alt />
+        <vs-col vs-type="flex" vs-justify="center" vs-align="center" vs-lg="3" vs-sm="3" vs-xs="3">
+          <img :style="window.width  < 1100 ? 'width:80%' : 'width:25%'" src="./assets/logo.png" alt />
         </vs-col>
-        <vs-col vs-type="flex" vs-justify="center" vs-align="center" vs-lg="2" vs-sm="2" vs-xs="2">
+        <vs-col vs-type="flex" vs-justify="center" vs-align="center" vs-lg="3" vs-sm="3" vs-xs="3">
           <img
-            :style="window.width  < 900 ? 'width:80%' : 'width:60%'"
+            :style="window.width  < 1100 ? 'width:80%' : 'width:35%'"
             src="./assets/images/node.png"
             alt
           />
         </vs-col>
-        <vs-col vs-type="flex" vs-justify="center" vs-align="center" vs-lg="2" vs-sm="2" vs-xs="2">
+        <vs-col vs-type="flex" vs-justify="center" vs-align="center" vs-lg="3" vs-sm="3" vs-xs="3">
           <img
-            :style="window.width  < 900 ? 'width:80%' : 'width:60%'"
+            :style="window.width  < 1100 ? 'width:80%' : 'width:25%'"
             src="./assets/images/git.png"
             alt
           />
         </vs-col>
-        <vs-col vs-type="flex" vs-justify="center" vs-align="center" vs-lg="2" vs-sm="2" vs-xs="2">
+         <vs-col vs-type="flex" vs-justify="center" vs-align="center" vs-lg="3" vs-sm="3" vs-xs="3">
           <img
-            :style="window.width  < 900 ? 'width:80%' : 'width:60%'"
+            :style="window.width  < 1100 ? 'width:80%' : 'width:25%'"
+            src="./assets/images/native.png"
+            alt
+          />
+        </vs-col>
+        <vs-col vs-type="flex" vs-justify="center" vs-align="center" vs-lg="4" vs-sm="4" vs-xs="4">
+          <img
+            :style="window.width  < 1100 ? 'width:80%' : 'width:25%'"
             src="./assets/images/vscode.png"
             alt
           />
         </vs-col>
-        <vs-col vs-type="flex" vs-justify="center" vs-align="center" vs-lg="2" vs-sm="2" vs-xs="2">
+        <vs-col vs-type="flex" vs-justify="center" vs-align="center" vs-lg="4" vs-sm="4" vs-xs="4">
           <img
-            :style="window.width  < 900 ? 'width:80%' : 'width:60%'"
+            :style="window.width  < 1100 ? 'width:80%' : 'width:25%'"
             src="./assets/images/csharp.png"
             alt
           />
         </vs-col>
-        <vs-col vs-type="flex" vs-justify="center" vs-align="center" vs-lg="2" vs-sm="2" vs-xs="2">
+        <vs-col vs-type="flex" vs-justify="center" vs-align="center" vs-lg="4" vs-sm="4" vs-xs="4">
           <img
-            :style="window.width  < 900 ? 'width:80%' : 'width:60%'"
+            :style="window.width  < 900 ? 'width:100%' : 'width:40%'"
             src="./assets/images/mysql.jpg"
             alt
           />
@@ -390,6 +397,8 @@ export default {
   text-align: center;
   justify-content: center;
   z-index: 1001;
+  -webkit-box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.3);
 }
 
 .aciklamalar {
