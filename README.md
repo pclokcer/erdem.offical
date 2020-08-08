@@ -1,6 +1,6 @@
 # Erdem Ün Official
 
-[Orjinal Web Site](erdemun.com)
+[Orjinal Web Site](http://erdemun.com)
 
 ## Build Setup
 
