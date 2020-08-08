@@ -1,8 +1,6 @@
 # Erdem Ün Official
 
-> Official Page
-
-# Nuxtjs Project
+[Orjinal Web Site](erdemun.com)
 
 ## Build Setup
 
@@ -21,4 +19,5 @@ $ npm run start
 $ npm run generate
 ```
 
+# Nuxtjs Project
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
