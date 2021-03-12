@@ -14,9 +14,6 @@
             <a class="nav-link" href="#info">Hakkımda</a>
           </b-nav-form>
           <b-nav-form class="mr-sm-4">
-            <a class="nav-link" href="#tecrube">Tecrübe</a>
-          </b-nav-form>
-          <b-nav-form class="mr-sm-4">
             <a class="nav-link" href="#teknolojiler">Teknolojiler</a>
           </b-nav-form>
           <b-nav-form class="mr-sm-4">
@@ -44,16 +41,24 @@
     <section id="info">
       <div class="container-fluid">
         <div class="row justify-content-between d-flex">
-          <div class="col-12" style="margin-top:-35px">
+          <div class="col-12" style="margin-top: -35px">
             <div class="d-flex justify-content-center">
-              <a target="_blank" style="color:blue" href="https://www.facebook.com/PcLokcer">
+              <a
+                target="_blank"
+                style="color: blue"
+                href="https://www.facebook.com/PcLokcer"
+              >
                 <svg
                   class="mb-1"
                   aria-hidden="true"
                   focusable="false"
                   width="1.7em"
                   height="1.7em"
-                  style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);"
+                  style="
+                    -ms-transform: rotate(360deg);
+                    -webkit-transform: rotate(360deg);
+                    transform: rotate(360deg);
+                  "
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 256 256"
                 >
@@ -68,14 +73,22 @@
                 </svg>
               </a>
 
-              <a target="_blank" style="color:black" href="https://github.com/pclokcer">
+              <a
+                target="_blank"
+                style="color: black"
+                href="https://github.com/pclokcer"
+              >
                 <svg
                   class="mb-1"
                   aria-hidden="true"
                   focusable="false"
                   width="1.7em"
                   height="1.7em"
-                  style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);"
+                  style="
+                    -ms-transform: rotate(360deg);
+                    -webkit-transform: rotate(360deg);
+                    transform: rotate(360deg);
+                  "
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 256 250"
                 >
@@ -86,14 +99,22 @@
                 </svg>
               </a>
 
-              <a target="_blank" style="color:orange" href="https://www.instagram.com/pclokcer">
+              <a
+                target="_blank"
+                style="color: orange"
+                href="https://www.instagram.com/pclokcer"
+              >
                 <svg
                   class="mb-1"
                   aria-hidden="true"
                   focusable="false"
                   width="1.7em"
                   height="1.7em"
-                  style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);"
+                  style="
+                    -ms-transform: rotate(360deg);
+                    -webkit-transform: rotate(360deg);
+                    transform: rotate(360deg);
+                  "
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 256 256"
                 >
@@ -106,7 +127,7 @@
 
               <a
                 target="_blank"
-                style="color:royalblue"
+                style="color: royalblue"
                 href="https://www.linkedin.com/in/erdem-%C3%BCn-5b1580153/"
               >
                 <svg
@@ -115,11 +136,22 @@
                   focusable="false"
                   width="1.7em"
                   height="1.7em"
-                  style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);"
+                  style="
+                    -ms-transform: rotate(360deg);
+                    -webkit-transform: rotate(360deg);
+                    transform: rotate(360deg);
+                  "
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 72 72"
                 >
-                  <rect x="11" y="11" rx="3" width="50" height="50" fill="#61b2e4" />
+                  <rect
+                    x="11"
+                    y="11"
+                    rx="3"
+                    width="50"
+                    height="50"
+                    fill="#61b2e4"
+                  />
                   <path fill="#fff" d="M20 30h6v21h-6z" />
                   <circle cx="23" cy="22" r="3.5" fill="#fff" />
                   <path
@@ -127,9 +159,26 @@
                     d="M42.5 35c-2.209 0-4 1.168-4 4.5V51h-6V30h6v2.21h-.002A7.981 7.981 0 0 1 44.5 29.5c4.418 0 8 3.3 8 9V51h-6V39.5c0-3.332-1.79-4.5-4-4.5"
                   />
                   <g fill="none" stroke="#000" stroke-width="2">
-                    <rect x="11" y="11" rx="3" width="50" height="50" stroke-miterlimit="10" />
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M20 30h6v21h-6z" />
-                    <circle cx="23" cy="22" r="3.5" stroke-linecap="round" stroke-linejoin="round" />
+                    <rect
+                      x="11"
+                      y="11"
+                      rx="3"
+                      width="50"
+                      height="50"
+                      stroke-miterlimit="10"
+                    />
+                    <path
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      d="M20 30h6v21h-6z"
+                    />
+                    <circle
+                      cx="23"
+                      cy="22"
+                      r="3.5"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
                     <path
                       stroke-linecap="round"
                       stroke-linejoin="round"
@@ -147,126 +196,83 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-12 text-center">
-            <h1 class="mt-3">HAKKIMDA</h1>
+            <h2 class="mt-3">HAKKIMDA</h2>
           </div>
           <div class="col-md-2 text-left"></div>
           <div class="col-md-8 text-left ml-3">
-            <p style="margin-top:30px;margin-bottom:30px">
-              Makine Mühendisliği Bölümü Mezunuyum. Bilgisayarla Küçüklüğümden Beri Çok İlgili Olduğum için Yazılım Sektörü Hep İlgimi Çekmiştir.
-              Üniversite Sırasında Yazılım Konusunda İlerleyip Ürünler Oluşturdum. Şimdi ise Mobil Uygulamalar, Web Uygulamalar ve Backend
-              Uygulamaları Geliştirmekteyim.
+            <p style="margin-top: 30px; margin-bottom: 30px">
+              Makine Mühendisliği Bölümü Mezunuyum. Bilgisayarla Küçüklüğümden
+              Beri Çok İlgili Olduğum için Yazılım Sektörü Hep İlgimi Çekmiştir.
+              Üniversite Sırasında Yazılım Konusunda İlerleyip Ürünler
+              Oluşturdum. Şimdi ise Mobil Uygulamalar, Web Uygulamalar ve
+              Backend Uygulamaları Geliştirmekteyim.
             </p>
           </div>
           <div class="col-md-2 text-left"></div>
         </div>
       </div>
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-2 text-left"></div>
-          <div class="col-md-8 text-center">
-            <p
-              style="margin-top:30px;margin-bottom:30px"
-            >Backend de Web Servis ve Web Socket Yazıyorum. Anlık Haberleşmelerde Tecrübeliyim. Projelerde Genellikle Kullandığım Nodejs Modülleri;</p>
-          </div>
-          <div class="col-md-2 text-left"></div>
-        </div>
-        <div class="row mb-5">
-          <div style="margin-bottom:12px" class="col-md-6 text-center">- express</div>
-          <div style="margin-bottom:12px" class="col-md-6 text-center">- nodemon</div>
-          <div style="margin-bottom:12px" class="col-md-6 text-center">- jsonwebtoken</div>
-          <div style="margin-bottom:12px" class="col-md-6 text-center">- socket.io</div>
-          <div style="margin-bottom:12px" class="col-md-6 text-center">- nodemailer</div>
-          <div style="margin-bottom:12px" class="col-md-6 text-center">- joi</div>
-          <div style="margin-bottom:12px" class="col-md-6 text-center">- mysql</div>
-          <div style="margin-bottom:12px" class="col-md-6 text-center">- mkdirp</div>
-          <div style="margin-bottom:12px" class="col-md-6 text-center">- moment</div>
-          <div style="margin-bottom:12px" class="col-md-6 text-center">- crypto-js</div>
-          <div style="margin-bottom:12px" class="col-md-6 text-center">- node-cron</div>
-          <div style="margin-bottom:12px" class="col-md-6 text-center">- dotenv</div>
-          <div style="margin-bottom:12px" class="col-md-6 text-center">- bcrypt</div>
-          <div style="margin-bottom:12px" class="col-md-6 text-center">- node-cache</div>
-        </div>
-      </div>
-      <hr />
-    </section>
-    <section id="tecrube">
-      <div class="container-fluid mb-5">
-        <div class="row mb-4">
-          <div class="col-md-12 text-center">
-            <h1 class="mt-3">Projesini Yönettiğim Bir Sistemin Kurgusu</h1>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-2 text-left"></div>
-          <div class="col-md-8 text-left ml-3">
-            <p>
-              Diagramda Görülen Mobil, Web ve Sunucu yazılımlarının hepsine hakim bir şekilde kodlama yapabilirim.
-              Akışı Anlatmak gerekirse, mobilden ve web den gelen http istekleri sunucu tarafında bulunan nginx karşılar.
-              Burda isteğin konfigure ettiğimiz şekilde yönlendirilmesi yapılır. Yönlendirme web sayfası alabilir,
-              API isteği alabilir veya Web Socket isteği alabilir şekilde konfigure edilmiştir.
-            </p>
-            <br />
-            <p>- Web Sayfasına göre yönlendirme alırsa web sayfası verilir.</p>
-            <br />
-            <p>
-              - API isteğine göre yönlendirme alırsa web servisimiz de ilk olarak token kontrolü yapılır.
-              Token kontrolünden geçen istek mysql veya bellekten data alabilir ve data kaydı kapabilir.
-            </p>
-            <br />
-            <p>
-              - Web Socket isteğine göre yönlendirme alırsa soket bağlantısı gerçekleştirilir ve sokette oda kurulur.
-              Anlık haberleşme için gelen Mobil Platform bağlantı istekleri bu odaya dahil edilerek kullanıcılar
-              arasında bağlantı gerçekleşmiş olur. Artık Anlık olarak kullanıcılar birbirleri ile haberleşmeye hazırdır.
-            </p>
-          </div>
-          <div class="col-md-2 text-left"></div>
-        </div>
-        <br />
-        <br />
-        <br />
-        <div class="row">
-          <div class="col-md-12 text-center">
-            <img width="60%" src="../assets/images/diagram.png" alt />
-          </div>
-        </div>
-      </div>
-      <hr />
     </section>
     <section id="teknolojiler">
       <div class="container-fluid mb-5">
         <div class="row mb-2">
           <div class="col-md-12 text-center">
-            <h1 class="mt-3">KULLANDIĞIM TEKNOLOJİLER</h1>
+            <h2 class="mt-3">KULLANDIĞIM TEKNOLOJİLER</h2>
           </div>
         </div>
         <div class="row teknoloji">
           <div class="col-md-3 text-center mt-5">
             <div class="logo">
-              <img height="100px" src="../assets/logo.png" alt />
+              <img height="50px" src="../assets/logo.png" alt />
               <h3>Vuejs</h3>
             </div>
           </div>
           <div class="col-md-3 text-center mt-5">
             <div class="logo">
-              <img height="100px" src="../assets/images/flutter.png" alt />
+              <img height="50px" src="../assets/images/flutter.png" alt />
               <h3>Flutter</h3>
             </div>
           </div>
           <div class="col-md-3 text-center mt-5">
             <div class="logo">
-              <img height="100px" src="../assets/images/node.png" alt />
+              <img height="50px" src="../assets/images/node.png" alt />
               <h3>Nodejs</h3>
             </div>
           </div>
           <div class="col-md-3 text-center mt-5">
             <div class="logo">
-              <img height="100px" src="../assets/images/native.png" alt />
+              <img
+                src="https://miro.medium.com/max/336/1*glD7bNJG3SlO0_xNmSGPcQ.png"
+                alt=""
+                height="50px"
+              />
+              <h3>Docker</h3>
+            </div>
+          </div>
+          <div class="col-md-3 text-center mt-5">
+            <div class="logo">
+              <img
+                src="https://sm.pcmag.com/pcmag_au/review/a/amazon-web/amazon-web-services_282w.jpg"
+                alt=""
+                height="50px"
+              />
+              <h3>Amazon (AWS)</h3>
+            </div>
+          </div>
+          <div class="col-md-3 text-center mt-5">
+            <div class="logo">
+              <img src="../assets/images/mongo.png" alt="" height="50px" />
+              <h3>MongoDB</h3>
+            </div>
+          </div>
+          <div class="col-md-3 text-center mt-5">
+            <div class="logo">
+              <img height="50px" src="../assets/images/native.png" alt />
               <h3>NativeScript</h3>
             </div>
           </div>
           <div class="col-md-3 text-center mt-5">
-            <div class="logo" style="height:230px;">
-              <svg height="130" viewBox="0 0 452 342">
+            <div class="logo" style="height: 170px">
+              <svg height="50" viewBox="0 0 452 342">
                 <g fill="none" fill-rule="evenodd">
                   <path
                     d="M139 330l-1-2c-2-4-2-8-1-13H29L189 31l67 121 22-16-67-121c-1-2-9-14-22-14-6 0-15 2-22 15L5 303c-1 3-8 16-2 27 4 6 10 12 24 12h136c-14 0-21-6-24-12z"
@@ -287,187 +293,81 @@
             </div>
           </div>
           <div class="col-md-3 text-center mt-5">
-            <div class="logo" style="height:230px;">
-              <img width="100px" src="../assets/images/vscode.png" alt />
-              <h3 style="margin-top:-15px">Visual Studio Code</h3>
+            <div class="logo" style="height: 170px">
+              <img width="50px" src="../assets/images/vscode.png" alt />
+              <h4 style="margin-top: -15px">Visual Studio Code</h4>
             </div>
           </div>
 
           <div class="col-md-3 text-center mt-5">
             <div class="logo">
-              <img height="100px" src="../assets/images/mysql.jpg" alt />
+              <img height="50px" src="../assets/images/mysql.jpg" alt />
               <h3>MySQL</h3>
             </div>
           </div>
           <div class="col-md-3 text-center mt-5">
             <div class="logo">
-              <img height="100px" src="../assets/images/git.png" alt />
+              <img height="50px" src="../assets/images/git.png" alt />
               <h3>GitBash</h3>
             </div>
           </div>
           <div class="col-md-3 text-center mt-5">
             <div class="logo">
-              <img height="100px" src="../assets/images/csharp.png" alt />
+              <img height="50px" src="../assets/images/csharp.png" alt />
               <h3>C#</h3>
             </div>
           </div>
           <div class="col-md-3 text-center mt-5">
             <div class="logo">
-              <img height="100px" src="../assets/images/github.png" alt />
+              <img height="50px" src="../assets/images/github.png" alt />
               <h3>Github</h3>
             </div>
           </div>
           <div class="col-md-3 text-center mt-5">
             <div class="logo">
-              <img height="100px" src="../assets/images/bots.png" alt />
+              <img height="50px" src="../assets/images/bots.png" alt />
               <h3>Bootstrap</h3>
             </div>
           </div>
         </div>
       </div>
-      <hr />
     </section>
-    <section id="projeler">
-      <b-container fluid class="mt-5">
-        <div class="row">
-          <div class="col-md-12 text-center">
-            <h1>ÖRNEK PROJELER</h1>
-          </div>
-        </div>
-        <b-container>
-          <b-row class="text-center orta mt-3">
-            <b-col md="12">
-              <b-button
-                @click="resim_page = 0"
-                class="yuvarlak mr-3"
-                style="outline: none;"
-                radius
-                :style="resim_page == 0 ? 'color: white;background-color: blue;' : 'color: blue;background-color: white;'"
-              >
-                <svg
-                  class="bi bi-phone"
-                  width="1.5em"
-                  height="1.5em"
-                  viewBox="0 0 16 16"
-                  fill="currentColor"
-                >
-                  <path
-                    fill-rule="evenodd"
-                    d="M11 1H5a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1zM5 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H5z"
-                  />
-                  <path fill-rule="evenodd" d="M8 14a1 1 0 1 0 0-2 1 1 0 0 0 0 2z" />
-                </svg>
-              </b-button>
 
-              <b-button
-                @click="resim_page = 1"
-                class="yuvarlak ml-3"
-                radius
-                icon="display"
-                style="outline: none;"
-                :style="resim_page == 1 ? 'color: white;background-color: blue;' : 'color: blue;background-color: white;'"
-              >
-                <svg
-                  class="bi bi-display"
-                  width="1.5em"
-                  height="1.5em"
-                  viewBox="0 0 16 16"
-                  fill="currentColor"
-                >
-                  <path
-                    d="M5.75 13.5c.167-.333.25-.833.25-1.5h4c0 .667.083 1.167.25 1.5H11a.5.5 0 0 1 0 1H5a.5.5 0 0 1 0-1h.75z"
-                  />
-                  <path
-                    fill-rule="evenodd"
-                    d="M13.991 3H2c-.325 0-.502.078-.602.145a.758.758 0 0 0-.254.302A1.46 1.46 0 0 0 1 4.01V10c0 .325.078.502.145.602.07.105.17.188.302.254a1.464 1.464 0 0 0 .538.143L2.01 11H14c.325 0 .502-.078.602-.145a.758.758 0 0 0 .254-.302 1.464 1.464 0 0 0 .143-.538L15 9.99V4c0-.325-.078-.502-.145-.602a.757.757 0 0 0-.302-.254A1.46 1.46 0 0 0 13.99 3zM14 2H2C0 2 0 4 0 4v6c0 2 2 2 2 2h12c2 0 2-2 2-2V4c0-2-2-2-2-2z"
-                  />
-                </svg>
-              </b-button>
-              <!-- laptop -->
-            </b-col>
-          </b-row>
-        </b-container>
-        <div v-show="resim_page == 0" class="row mt-5 mb-5">
-          <b-container>
-            <b-row>
-              <b-col>
-                <b-card
-                  title="Mobil"
-                  img-src="../assets/images/mobil1.jpeg"
-                  img-alt="Image"
-                  img-bottom
-                  tag="article"
-                  class="mb-2 pic"
-                >
-                  <b-card-text>Mobil Giriş Ekranı (Logo Temsili Değil)</b-card-text>
-                </b-card>
-              </b-col>
-              <b-col>
-                <b-card
-                  title="Mobil"
-                  img-src="../assets/images/mobil2.jpeg"
-                  img-alt="Image"
-                  img-bottom
-                  tag="article"
-                  class="mb-2 pic"
-                >
-                  <b-card-text>Projenin Örnek Mobil Ekranı</b-card-text>
-                </b-card>
-              </b-col>
-            </b-row>
-          </b-container>
-        </div>
-        <div v-show="resim_page == 1" class="row mt-5 mb-5">
-          <b-container>
-            <b-row>
-              <b-col class="orta">
-                <b-card
-                  title="Web"
-                  img-src="../assets/images/web1.png"
-                  img-alt="Image"
-                  img-bottom
-                  tag="article"
-                  style="max-width: 50rem;"
-                  class="mb-2 pic"
-                >
-                  <b-card-text>Projenin Günlük Hesaplamalarından Ortaya Çıkan Veri Grafikleri</b-card-text>
-                </b-card>
-              </b-col>
-              <b-col class="orta">
-                <b-card
-                  title="Web"
-                  img-src="../assets/images/web2.png"
-                  img-alt="Image"
-                  img-bottom
-                  tag="article"
-                  style="max-width: 50rem;"
-                  class="mb-2 pic"
-                >
-                  <b-card-text>Projenin Örnek Web Ekranı</b-card-text>
-                </b-card>
-              </b-col>
-            </b-row>
-          </b-container>
-        </div>
-      </b-container>
-    </section>
-    <section id="footer">
-      <footer-alt></footer-alt>
-    </section>
+    <b-card id="projeler" no-body>
+      <b-tabs pills card align="center">
+        <b-tab title="E-Garsonum" active
+          ><b-card-text>
+            <!-- E-Garsonum -->
+            <e-garsonum></e-garsonum>
+            <!-- E-Garsonum -->
+          </b-card-text></b-tab
+        >
+        <b-tab title="Modem Hex Güncelleme"
+          ><b-card-text>
+            <!-- Hex Update -->
+            <hex-update></hex-update>
+            <!-- Hex Update -->
+          </b-card-text></b-tab
+        >
+      </b-tabs>
+    </b-card>
   </div>
 </template>
 
 <script>
-import Footer from "./footer.vue";
+import egarsonum from "./e-garsonum";
+import hexUpdateVue from "./hexUpdate.vue";
+
 export default {
   components: {
-    "footer-alt": Footer
+    "e-garsonum": egarsonum,
+    "hex-update": hexUpdateVue,
   },
   data() {
     return {
-      resim_page: 0
+      resim_page: 0,
     };
-  }
+  },
 };
 </script>
 
@@ -553,15 +453,5 @@ export default {
 .sunum {
   width: 400px;
   margin: 15px;
-}
-
-/**footer */
-#footer {
-  background: rgb(98, 98, 98);
-}
-.ortasi {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 </style>

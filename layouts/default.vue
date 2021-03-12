@@ -1,13 +1,35 @@
 <template>
   <div>
     <nuxt />
+    <section id="footer">
+      <footer-alt></footer-alt>
+    </section>
   </div>
 </template>
 
+<script>
+import Footer from './footer.vue'
+
+export default {
+  components: {
+    "footer-alt": Footer
+  },
+}
+</script>
+
 <style>
+/**footer */
+#footer {
+  background: rgb(98, 98, 98);
+}
+.ortasi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 html {
-  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
