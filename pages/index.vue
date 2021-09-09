@@ -29,9 +29,8 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-12 text-center resim">
-            <!--<img src="../assets/images/profil3.jpeg" alt />-->
             <img
-              src="https://media-exp1.licdn.com/dms/image/C4D03AQENfnmnjfEUQw/profile-displayphoto-shrink_400_400/0/1615593637049?e=1621468800&v=beta&t=awE3j9pINyVPZecDw_I8BABAuha2C9HN9Xjn9ZD0WDE"
+              src="../assets/images/profile.jpg"
               alt
             />
             <h1>Erdem Ün</h1>
